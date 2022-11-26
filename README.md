@@ -111,6 +111,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🎓 Reference & Education
 ### 💰 [DEVONthink](https://www.devontechnologies.com/promotions/blackfriday) - DEVONthink is your paperless office. It stores all your documents, helps you keep them organized, and presents you with what you need to get the job done. 25% off Nov 25th – Nov 28th 2022.
+### 💸 [Fuelance Freelance System](https://unapologeticih.gumroad.com/l/ktxfX) - Find Freelance Clients on Autopilot. Onboard them & Manage Projects Effortlessly. Fuelance helps you to find repeatable clients in record time, and collaborate with them in customizable workspaces packed with freelance docs & templates in real time. 80% OFF. Lifetime Access, Use code 80OFFBF at the checkout
+
 
 ## 📰 News
 ### 💰 [Elytra](https://apps.apple.com/app/apple-store/id1433266971?pt=119194029&ct=blackfridayrepo&mt=8) - Simple & Private RSS Feeds Reader 
